@@ -4,6 +4,12 @@
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
-- Strogonoff de frango 2
+- Strogonoff de frango
+
 - Pavê
+=========
+
+- Bolo de cenoura
+
+
 
